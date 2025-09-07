@@ -16,7 +16,7 @@ setup(
     name="pixelscope",
     version="1.0.0",
     author="Sohaila Emad",
-    author_email="sohaila.emad@example.com",  # Update with your email
+    author_email="sohailaemad85@gmail.com",  # Update with your email
     description="An advanced image viewer and processing tool",
     long_description=long_description,
     long_description_content_type="text/markdown",
